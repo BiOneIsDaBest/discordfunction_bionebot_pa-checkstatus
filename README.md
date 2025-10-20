@@ -74,13 +74,6 @@ BiOneBot-pa/
 
 ---
 
-## 💡 Hướng phát triển tiếp theo
-- Tích hợp lịch làm việc và thông báo hàng tuần.
-- Gửi thống kê tổng hợp thời gian on/off duty.
-- Kết hợp dashboard web để quản lý dữ liệu nhân viên.
-
----
-
 ## 👨‍💻 Tác giả
 **BiOneIsDaBest**  
 📍 Melbourne, Australia  
